@@ -1,0 +1,5 @@
+#ifndef __OPTICALROUTER_H__
+#define __OPTICALROUTER_H__
+
+enum Lambda {L1,L2};
+#endif
